@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sas.svc.connection.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/com.sas.twn-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sas.core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sas.entities.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sas.oma.joma.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sas.oma.joma.rmt.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sas.oma.omi.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sas.security.sspi.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sas.tools.webappconfig.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
